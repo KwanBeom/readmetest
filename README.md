@@ -36,10 +36,11 @@ npm run build
 ## 주요 기능 소개
 
 ### 크리스마스 트리 등록
+- 위치를 검색하거나 현재 위치로 설정합니다.
 - 지도를 기반으로 트리를 등록할 수 있습니다.
 - 트리의 상세정보를 기입할 수 있습니다.
   
-  ![트리등록](https://github.com/KwanBeom/readmetest/assets/126222927/7d1e6009-c54c-46f4-a649-b8dd138d99d7) <img width="200" alt="image" src="https://github.com/KwanBeom/readmetest/assets/126222927/8003b589-fcef-4d92-9080-222482f7d0f6">
+  ![위치 등록](https://github.com/KwanBeom/readmetest/assets/126222927/dfa586b1-1d88-4175-add8-82a0336a03f9) ![트리등록](https://github.com/KwanBeom/readmetest/assets/126222927/7d1e6009-c54c-46f4-a649-b8dd138d99d7) <img width="200" alt="image" src="https://github.com/KwanBeom/readmetest/assets/126222927/8003b589-fcef-4d92-9080-222482f7d0f6">
 
 
 
@@ -58,8 +59,9 @@ npm run build
 
 ### 크리스마스 트리 찾기
 - 지도에서 등록된 크리스마스 트리를 찾을 수 있습니다.
-  
-  ![메인 페이지 트리 탐색](https://github.com/KwanBeom/readmetest/assets/126222927/8b7e3e97-919d-46d4-a94c-892611b88abd)
+- 위치 및 트리 이름으로 검색해 트리를 찾을 수 있습니다.
+
+  ![트리검색](https://github.com/KwanBeom/readmetest/assets/126222927/3729b20d-b31a-4fb4-b0a7-02f920d5f91b) ![메인 페이지 트리 탐색](https://github.com/KwanBeom/readmetest/assets/126222927/8b7e3e97-919d-46d4-a94c-892611b88abd)
 
 
 
